@@ -1,8 +1,8 @@
 ﻿// Decompiled with JetBrains decompiler
 // Type: Program
-// Assembly: Avalonia.BuildServices.9164706a96e3427f8aaebeddbbc25360, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: B0DD5459-F11C-4817-A603-2C93531B14CB
-// Assembly location: \.nuget\packages\avalonia.buildservices\0.0.29\tools\netstandard2.0\Avalonia.BuildServices.Collector.dll
+// Assembly: Avalonia.BuildServices.41a83caa4e4049439139943d38bf080f, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: B932F8E0-14A1-478B-83B5-8C42A95A0FD3
+// Assembly location: \.nuget\packages\avalonia.buildservices\0.0.31\tools\netstandard2.0\Avalonia.BuildServices.Collector.dll
 
 using Avalonia.Telemetry;
 
